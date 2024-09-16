@@ -1,5 +1,5 @@
-l=eval(input("Enter Set 1:"))
-t=eval(input("Enter Set 2:"))
+l=eval(input("Enter List 1:"))
+t=eval(input("Enter List 2:"))
 s=[]
 for i in l:
     for j in t:
